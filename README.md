@@ -1,4 +1,4 @@
-<img src="logo.svg" style="height: 90px; margin-bottom: 30px;" /> 
+<img src="logo.svg" style="height: 110px; margin-bottom: 30px;" /> 
 
 # OVR Chainlink Competition
 
