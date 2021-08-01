@@ -17,3 +17,10 @@ The links to the Ethereum Smart Contract:
 [Smart Contract Treasure Hunt](https://www.ovr.ai/blog/ovr-competition-powered-by-chainlink/)
 
 [Smart Contract OVR Land](https://www.ovr.ai/blog/ovr-competition-powered-by-chainlink/) -->
+
+## List of participants
+
+
+[Treasure Hunt](https://github.com/OVR-Platform/chainlink-contest/blob/main/Competition%20Round%20%231/treasures.txt)
+
+[OVR Land Auction](https://github.com/OVR-Platform/chainlink-contest/blob/main/Competition%20Round%20%231/auctions.txt) 
