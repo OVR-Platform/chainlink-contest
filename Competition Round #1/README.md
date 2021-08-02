@@ -1,11 +1,7 @@
-# Competition Round #1
-
-
-<img src="1.svg" style="height: 110px; margin-bottom: 30px;" /> 
+# Winners Round #1
 
 
 
-# Winners
 
 | Winners | Competition       | HexId | Extracted number |Smart Contract                                   
 | :---: | :-------------|:-------------|:-----------|:-----------                               
