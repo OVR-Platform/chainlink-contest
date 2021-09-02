@@ -12,4 +12,4 @@
 
 ## List of participants
 
-<!-- [OVR Land Auction](https://github.com/OVR-Platform/chainlink-contest/blob/main/Competition%20Round%20%231/auctions.txt)  -->
+[OVR Land Auction](https://github.com/OVR-Platform/chainlink-contest/blob/main/Competition%20Round%20%232/auctions_2.txt) 
