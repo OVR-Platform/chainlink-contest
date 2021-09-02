@@ -5,7 +5,7 @@
 
 | Winners | Competition       | HexId | Extracted number | Smart Contracts Link                                   
 | :---: | :-------------|:-------------|:-----------|:-----------                               
-| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px">   |   OVR Land        |    |   | [ |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px">   |   OVR Land        |    |   |  |
 
 
 
